@@ -1,0 +1,10 @@
+>>classses are written inside opening tags
+however, ids are written with #tag.
+>>ctrl + /
+>>for colours colours.neilorangepeel.com
+use google fonts for fonts
+>>code drops for the reference of css styles
+and properties
+sometimes its hard to differentiate between padding and
+margin.
+everything in browser is displayed as a block
